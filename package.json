@@ -9,14 +9,17 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@t3-oss/env-nextjs": "^0.7.1",
     "@types/node": "20.8.10",
     "@types/react": "18.2.34",
     "@types/react-dom": "18.2.14",
     "eslint": "8.52.0",
     "eslint-config-next": "14.0.1",
+    "microcms-js-sdk": "^2.7.0",
     "next": "14.0.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "typescript": "5.2.2"
+    "typescript": "5.2.2",
+    "zod": "^3.22.4"
   }
 }
